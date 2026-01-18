@@ -158,5 +158,4 @@ This dashboard enables stakeholders to:
 
 ---
 
-## 📂 Project Structure
 
